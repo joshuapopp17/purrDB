@@ -1,13 +1,17 @@
 # purrDB 🐾
-Thank you for using purrDB
-Yeah I like cats.😻
+Thank you for checking out purrDB. 😻
 
 This is a 100% client side DB using localstorage in the web browser.
 I got annoyed using all these third party API's just to make a simple web app.
 For that reason I made my own local storage interface to make it easy.
-It's a work in progress but I am happy with it so far. 
+It's a work in progress, but I would love feedback.
 
 # 📄 INSTRUCTIONS AND USAGE 📄:
+
+1. Download the purr.js file.
+2. Add it to the src directory of your project.
+3. Follow the steps below for usage.
+
 ## CREATE A NEW COLLECTION:
 createCollection("collection")
 

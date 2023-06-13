@@ -15,17 +15,17 @@ createCollection("collection")
 deleteCollection("collection")
 
 ## GET A COLLECTION (all rows or with conditon):
-getCollection("collect", ?condition = {"eq or neq": <JSON OBJECT>})
+getCollection("collect", ?condition = {"eq or neq": JSON OBJECT})
 #### EX: const data = getCollection("users", {"eq": {name: "josh"}})
 
 ## GET A SINGLE ROW:
 getRow("collection", id)
 
 ## INSERT A SINGLE ROW:
-insertRow("collection", <JSON OBJECT>)
+insertRow("collection", JSON OBJECT)
 
 ## UPDATE A SINGLE ROW:
-updateRow("collection", id, <JSON OBJECT>)
+updateRow("collection", id, JSON OBJECT)
 
 ## DELETE A SINGLE ROW:
 deleteRow("collection", id)

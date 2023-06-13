@@ -1,4 +1,4 @@
-# purrDB
+# purrDB 🐾
 Thank you for using purrDB
 Yeah I like cats.😻
 
@@ -7,7 +7,7 @@ I got annoyed using all these third party API's just to make a simple web app.
 For that reason I made my own local storage interface to make it easy.
 It's a work in progress but I am happy with it so far. 
 
-#  INSTRUCTIONS AND USAGE:
+# 📄 INSTRUCTIONS AND USAGE 📄:
 ## CREATE A NEW COLLECTION:
 createCollection("collection")
 

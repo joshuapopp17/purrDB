@@ -106,6 +106,9 @@ const getCollection = (collectionName, query) => {
         } else {
             const current = window.localStorage.getItem(collectionName)
             const collection = JSON.parse(current)
+            if (!collection) {
+                return []
+            }
             return collection
         }
     }

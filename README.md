@@ -1,5 +1,6 @@
 # purrDB 🐾
 Thank you for checking out purrDB. 😻
+[Website & Docs](https://kaleidoscopic-dieffenbachia-7a4f1a.netlify.app)
 
 This is a 100% client side DB using localstorage in the web browser.
 I got annoyed using all these third party API's just to make a simple web app.
